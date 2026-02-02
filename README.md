@@ -1,0 +1,2 @@
+# LegoTRSK
+Kolekcje lego
